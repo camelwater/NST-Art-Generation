@@ -1,1 +1,1 @@
-Pretrained VGG19 model and weights.
+Pretrained VGG19 model and weights. It's like 600 MB, so can't put it in the repository.
