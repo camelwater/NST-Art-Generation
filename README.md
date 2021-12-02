@@ -4,6 +4,8 @@ Art Generation through Neural Style Transfer (NST), where a new image can be gen
 
 Essentially, the style or features of the style image are applied to the content image, so that the end result is an image that matches both the content of the content image and the style of the style image. 
 
+Assignment from "Convolutional Neural Networks" (Coursera).
+
 Ex.
 
 ![image](https://user-images.githubusercontent.com/32146663/144343801-9aacf643-d36f-4ba4-b6e8-6000f2d853a0.png)
